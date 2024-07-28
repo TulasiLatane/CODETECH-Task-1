@@ -31,3 +31,5 @@ Java Standard Edition (Java SE): Core Java: Fundamental classes and APIs, such a
 Integrated Development Environment (IDE):
 
 Eclipse, IntelliJ IDEA, NetBeans: For writing, debugging, and running the Java code.
+Result:
+<img width="530" alt="calculator op" src="https://github.com/user-attachments/assets/13a22c16-bc08-4ed3-98d5-71def510bc34">
